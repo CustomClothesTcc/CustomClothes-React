@@ -16,13 +16,8 @@ const Unico = () => {
             <div className="botaoEditar">Editar</div>
             <h1 className="titulo">Informação</h1>
             <div className="item">
-              <img
-                src="https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-                alt=""
-                className="imagemItem"
-              />
               <div className="detalhes">
-                <h1 className="tituloItem">JOANA MACHADO SILVA</h1>
+                <h1 className="tituloItem">JOANA SILVA</h1>
                 <div className="itemDetalhe">
                   <span className="chaveItem">Email:</span>
                   <span className="valorItem">customclothes@gmail.com</span>
