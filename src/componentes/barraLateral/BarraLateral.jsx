@@ -54,19 +54,6 @@ const BarraLateral = () => {
               <span>Entrega</span>
             </li>
           </Link>
-
-          <p className="titulo">USUÁRIO</p>
-          <li>
-            <AccountCircleOutlinedIcon className="icone" />
-            <span>Perfil</span>
-          </li>
-          <li>
-            <ExitToAppIcon className="icone" />
-            {/*Conectar as telas usuarios*/}
-            <a href="">
-              <span>Sair</span>
-            </a>
-          </li>
         </ul>
       </div>
     </div>
